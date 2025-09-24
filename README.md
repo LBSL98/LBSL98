@@ -11,7 +11,7 @@ Engenharia de Computação • Robótica móvel • Visão computacional • Heu
 ---
 
 ### 🔎 Em foco agora
-- Robô seguidor (ESP32 + RP2040 + 8× HC-SR04): follow-me, evasão de obstáculos, modos autônomo/Bluetooth.
+- Robô seguidor (ESP32 + STM32 + Raspberry pi 4): visão computacional, fusão de sensores, evasão de obstáculos, modos autônomo/Bluetooth.
 - Benchmark de heurísticas/meta-heurísticas em grafos (greedy, local search, meta): NMI/ARI e reprodutibilidade.
 - Visão computacional aplicada (OpenCV/YOLO) para detecção e segmentação.
 
